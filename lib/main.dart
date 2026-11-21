@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 
-// ====== ЗАМЕНИТЕ НА ССЫЛКУ НА ВАШ GIT-РЕПОЗИТОРИЙ ======
-const String gitUrl = 'https://github.com/your-name/your-project';
+const String gitUrl = 'https://github.com/fullhaos15/flutter2-vsk2-Ros2';
 // ======================================================
 const String smolguUrl = 'https://smolgu.ru';
 
